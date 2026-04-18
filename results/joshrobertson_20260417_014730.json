@@ -1,0 +1,24 @@
+{
+  "student_id": "joshrobertson",
+  "timestamp": "20260417_014730",
+  "prediction_path": "predictions/dataset_a.csv",
+  "datasets": {
+    "dataset_a": {
+      "performance": {
+        "Rank-1": 99.95,
+        "Rank-5": 100.0,
+        "Rank-10": 100.0,
+        "Rank-20": 100.0,
+        "mAP": 88.19,
+        "mINP": 34.62,
+        "combined": 94.07
+      },
+      "submission_info": {
+        "num_queries": 7334,
+        "num_gallery": 30561,
+        "num_predicted_queries": 7334,
+        "num_missing_queries": 0
+      }
+    }
+  }
+}

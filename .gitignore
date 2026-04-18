@@ -1,0 +1,28 @@
+# Large data and model files
+datasets/
+checkpoints/
+weights/
+*.tar.gz
+*.parquet
+
+# Generated/temporary files
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+*.jpg
+*.pdf
+
+# Large submission files
+joshrobertson_comp560_submission.zip
+
+# Python env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
