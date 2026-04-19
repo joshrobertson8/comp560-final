@@ -12,6 +12,9 @@ __pycache__/
 .DS_Store
 *.jpg
 *.pdf
+*.html
+# ...except the final report
+!REPORT.pdf
 
 # Large submission files
 joshrobertson_comp560_submission.zip
