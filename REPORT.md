@@ -1,7 +1,6 @@
 # Embedding Learning for Cross-Domain Object Re-Identification
 
-**Josh Robertson — COMP 560 Final Project**
-**Student ID: 730711465**
+**Josh Robertson & Justin Yoo — COMP 560 Final Project**
 
 ---
 

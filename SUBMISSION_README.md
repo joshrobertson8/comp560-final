@@ -1,6 +1,6 @@
 # COMP 560 — Object Re-Identification
 
-**Student:** Josh Robertson
+**Students:** Josh Robertson & Justin Yoo
 **Entry point:** `model.py` — `StudentModel` class.
 
 ## Quick start (grader)
